@@ -17,9 +17,9 @@ content_markdown: |-
 
 **A. Adding Mail Subscribe Portlet**
   
-  1. Create a page where you want to add the portlet
-  2. Add the MailSubscribe Portlet
-  3. Once the portlet is added, click the prefrences icon, select **Configuration**.
+1. Create a page where you want to add the portlet
+2. Add the MailSubscribe Portlet
+3. Once the portlet is added, click the prefrences icon, select **Configuration**.
   
             a. Select the Campaign you have created for this subscription based campaign
             b. First Name and Last Name should be tick, click Save.
@@ -32,11 +32,10 @@ content_markdown: |-
 
 **B. Setting up Single Campaign**
 
-
-  1. Go to create campaign page. 
-  2. You will be directed to create campaign screen.
-  3. Add **Campaign Name, Campaign Type** (select **Subscription Based Scheduling**) and select **Category**.
-  4. Click Add EDM
+1. Go to create campaign page. 
+2. You will be directed to create campaign screen.
+3. Add **Campaign Name, Campaign Type** (select **Subscription Based Scheduling**) and select **Category**.
+4. Click Add EDM
   
             a. Add the Name for your EDM
             b. Select the email template you want to send out
@@ -47,6 +46,33 @@ content_markdown: |-
                     3. Days
                     4. Week
                     5. Months
+                    
+**Note**: this waiting time is based on the time the person subscribed to your campaign. Example if you set the waiting time to 5 minutes, the person will receive the campaign after 5 minutes of their subscription, same goes with hours, days, weeks and month. If you set the waiting time into 1 week, the subscriber will receive the campaign after one week of subscription.
+  
+5. Click **Save** after. You will be redirected to the campaign listing page, the campaign you have created is at the bottom.
+  
+  
+**C. Setting up Multiple Campaign**
+
+To set up multiple campaign follow the first steps when you create a single edm. The second step will be as follows:
+
+
+1. Click **Add EDM**
+
+          a. Add the Name for your **2nd EDM**
+          b. Select the email template you want to send. (**Note** -  this will be the second email)
+          c. From the Recurrence select Once Time
+          d. For Wait at Least select from the following:
+                  a. Minute
+                  b. Hours
+                  c. Days
+                  d. Week
+                  e. Months
+
+          
+
+
+
 
 
             
