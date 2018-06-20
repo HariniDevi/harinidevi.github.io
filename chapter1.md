@@ -15,4 +15,7 @@ content_markdown: |-
 
 Introduction chapter 1
 
-Sample Text
+A. Adding Mail Subscribe Portlet
+  
+  1. Create a page where you want to add the portlet
+  2. 
