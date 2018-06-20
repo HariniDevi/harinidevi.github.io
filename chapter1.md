@@ -68,7 +68,8 @@ To set up multiple campaign follow the first steps when you create a single edm.
                   c. Days
                   d. Week
                   e. Months
-                  
+     
+     
 **Note:** this waiting time is based after you receive the first campaign. Example you set the timing of your 2nd edm to 2 hours. So 2 hours after you received the 1st email you will receive the 2nd email. 
 
                   
