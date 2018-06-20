@@ -20,10 +20,9 @@ content_markdown: |-
   1. Create a page where you want to add the portlet
   2. Add the MailSubscribe Portlet
   3. Once the portlet is added, click the prefrences icon, select **Configuration**.
-     
-     a. Select the Campaign you have created for this subscription based campaign
-     
-     b. First Name and Last Name should be tick, click Save.
+  
+            a. Select the Campaign you have created for this subscription based campaign
+            b. First Name and Last Name should be tick, click Save.
      
 **Note**: In case you want to add the subscription portlet in the footer of your site, give the campaign ID to the developer, they will set up the portlet for you. 
 
