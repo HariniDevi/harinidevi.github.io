@@ -32,7 +32,6 @@ content_markdown: |-
 
 **B. Setting up Single Campaign**
 
-**Note:** You have to prepare your email templates first before creating the campaign.
 
   1. Go to create campaign page. 
   2. You will be directed to create campaign screen.
